@@ -1,0 +1,9 @@
+name: rock_paper_scissors
+main: io.github.yeandyson.rock_paper_scissors.Main
+version: 1.0
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.7.20
+api-version: 1.20
+commands:
+  rpc:
+    description: a
